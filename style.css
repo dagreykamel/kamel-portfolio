@@ -112,7 +112,7 @@ Kamel Mehali,
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    /* Added a light gray background */
+
     color: #333;
 }
 
@@ -209,10 +209,10 @@ button:hover {
     z-index: 999;
     transform: translateY(100%);
     transition: transform 0.5s ease;
-    /* ydir nimation*/
+    /* ydir animation*/
 }
 
 .footer.show {
     transform: translateY(0);
-    /*y3wd ytl3 le footer*/
+    /*y3wd ytl3 footer*/
 }
