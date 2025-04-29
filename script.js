@@ -11,6 +11,5 @@ window.addEventListener('scroll', () => {
                 footer.classList.remove('show');
             }
             lastScrollY = window.scrollY;
-
-            <
-            /script>;
+});
+            </script>;
